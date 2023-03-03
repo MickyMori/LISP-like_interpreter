@@ -1,0 +1,4 @@
+
+public enum KeyWords {
+	BLOCK, SET, PRINT, INPUT, IF, WHILE, ADD, SUB, MUL, DIV, LT, GT, EQ, AND, OR, NOT, TRUE, FALSE
+}
